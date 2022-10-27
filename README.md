@@ -2,4 +2,4 @@
 
 Command to run Hello.swift file:
 
-```swiftc Hello.swift```
+```swift Hello.swift```
