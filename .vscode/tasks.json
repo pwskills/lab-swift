@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Running your app...",
+      "label": "Installing extensions and running your app...",
       "type": "shell",
-      "command": "swift Hello.swift",
+      "command": "code-server --install-extension formulahendry.code-runner && swift Hello.swift",
       "presentation": {
         "reveal": "always",
         "panel": "new"
