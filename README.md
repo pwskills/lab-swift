@@ -1,4 +1,4 @@
-# neurolab-swift
+# lab-swift
 
 Command to run Hello.swift file:
 
